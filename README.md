@@ -1,4 +1,7 @@
-# <a name="readme-top"></a>
+<div align="center">
+<h1><b>ENUMERABLE</b></h3>
+
+</div>
 
 # 📗 Table of Contents
 
@@ -91,6 +94,14 @@ ruby main.rb
 - GitHub: [Khaled-Alaa-1](https://github.com/Khaled-Alaa-1)
 - Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
 - LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
+
+👤 **Rudi Carrillo**
+
+- GitHub: [@rudicarrilloypr](https://github.com/rudicarrilloypr)
+- Twitter: [@__rudicarrillo](https://twitter.com/__rudicarrillo)
+- LinkedIn: [Rudi Carrillo](https://www.linkedin.com/in/rudi-carrillo/)
+- Instagram: [@__rudicarrillo](https://www.instagram.com/_rudicarrillo/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
