@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'enumerable'
 
 # The MyList class is a simple wrapper around an array.
